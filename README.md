@@ -25,11 +25,11 @@
 - Developed and optimized core backend services in C#, contributing to API development, business logic modules, and efficient data processing pipelines.
 - Built 3 production level working tools from sratch.
 
-### 🏢 Research and Development Intern — EY (Ernst & Young) (June 2025 – Aug 2025)
+### 🏢 Research and Development Intern — DRDO (June 2025 – Aug 2025)
 - Developed and fine-tuned object detection pipelines using OpenCV and deep learning models for defense-related image datasets.
 - Improved detection accuracy and reduced processing latency through model optimization and performance benchmarking.
 
-### 🏢 Software Developer Intern — FatakPay (jUNE 2024 - Aug 2024)
+### 🏢 Software Developer Intern — FatakPay (June 2024 - Aug 2024)
 - Optimized core web modules and API integrations, reducing page load time and improving user engagement across high-traffic fintech workflows.
 - Debugged production issues, enhanced UI responsiveness, and collaborated with product & backend teams to ensure scalable feature releases.
 
